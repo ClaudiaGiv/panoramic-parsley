@@ -1,7 +1,7 @@
 ---
 title: Mindset
 subtitle: lorem-ipsum
-date: '2021-11-09'
+date: '2021-11-13'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
