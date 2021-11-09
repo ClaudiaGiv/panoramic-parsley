@@ -26,7 +26,7 @@ sections:
           - Success pe site
           - Sponsorship
           - Other
-          - lorem-ipsum
+          - alt success
       - input_type: textarea
         name: message
         label: Message
