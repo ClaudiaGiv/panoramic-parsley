@@ -8,7 +8,7 @@
         "tagline": "Programator",
         "profile_img": "/images/clau.jpg",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
